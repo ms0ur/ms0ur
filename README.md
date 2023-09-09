@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fcd6675ce9f4ca58aabd03?variant=dark)](https://roadmap.sh)
+
 <!--
 **ms0ur/ms0ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
