@@ -10,6 +10,7 @@
 ###
 
 <div align="center">
+  <p>Languages and frameworks</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -37,10 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+
+
 ###
 
 <div align="center">
-  I'm currently learning Vue.JS and Nuxt.JS:
+  <p>Learning Now:</p>
 
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fcd6675ce9f4ca58aabd03?variant=dark)](https://roadmap.sh)
 </div>
