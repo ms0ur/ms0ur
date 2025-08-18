@@ -44,13 +44,6 @@
 
 
 
-###
-
-<div align="center">
-  <p>Learning Now:</p>
-
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fcd6675ce9f4ca58aabd03?variant=dark)](https://roadmap.sh)
-</div>
 
 ###
 
