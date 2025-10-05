@@ -1,70 +1,82 @@
-<h1 align="center">Hello World!!</h1>
-
-###
-
-<h2 align="center">I'm Maksim, a student of RTU MIREA (Russia) with the study profile “Fullstack Developer”. I like to create frontends for cool applications using Vue💚</h1>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms0ur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms0ur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h1>Hi, I'm Maksim</h1>
+  <p><strong>Second-year student @ RTU MIREA (Moscow)</strong> · <strong>Frontend Intern @ Kaspersky (Moscow)</strong></p>
+
+  <a href="https://t.me/ms0ur">
+    <img alt="Telegram" height="24" src="https://img.shields.io/badge/Telegram-@ms0ur-blue?logo=telegram" />
+  </a>
+  <img alt="Languages: RU / EN" height="24" src="https://img.shields.io/badge/Languages-RU%20%2F%20EN-informational" />
 </div>
 
-###
+---
 
 <div align="center">
-  <p>Languages and frameworks</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ms0ur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+    height="150"
+    alt="GitHub stats for ms0ur"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ms0ur&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false"
+    height="150"
+    alt="Top languages for ms0ur"
+  />
+</div>
+
+---
+
+### About me
+I build clean, responsive, and performant web apps.
+
+- 🎓 Second-year student at **RTU MIREA** (Russia)
+- 💼 Frontend intern at **Kaspersky**
+- 🔭 Currently exploring **React**, **Next.js**, **Drizzle ORM + Postgres**
+- 🌱 Learning Spanish
+
+### Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="32" alt="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="32" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
+</div>
+
+---
+
+### Featured project
+<div align="left">
+  <a href="https://github.com/HeliCraft-MC/Vesper">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=HeliCraft-MC&repo=Vesper&theme=dracula&hide_border=false"
+      alt="Vesper repo card"
+    />
+  </a>
+
+  <p><strong>Vesper</strong> — frontend for HeliCraft Minecraft server web app. Live: <a href="https://helicraft.ru">helicraft.ru</a> / <a href="https://beta.helicraft.ru">beta.helicraft.ru</a></p>
+  <ul>
+    <li>SPA/SSR, UI components, API integration, basic auth flows</li>
+    <li>Stack: Vue / Nuxt, TypeScript, Tailwind, Node.js</li>
+  </ul>
 </div>
 
 
+---
 
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://t.me/ms0ur" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+### Contact
+<div align="left">
+  <a href="https://t.me/ms0ur" aria-label="Telegram - fastest way to reach me">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="32" alt="Telegram" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ms0ur/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG42ZWo0c2VmeDBsNnFqMm8xd2ppYmlicjJza2Fub3ViMzUwZTVrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEh5kliRTSVJm/giphy.gif"  />
-</div>
-
-###
