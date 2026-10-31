@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Maksim</h1>
-  <p><strong>Second-year student @ RTU MIREA (Moscow)</strong> · <strong>Frontend Intern @ Kaspersky (Moscow)</strong></p>
+  <p><strong>Third-year student @ RTU MIREA (Moscow)</strong> · <strong>Frontend Intern @ Kaspersky (Moscow)</strong></p>
 
   <a href="https://t.me/ms0ur">
     <img alt="Telegram" height="24" src="https://img.shields.io/badge/Telegram-@ms0ur-blue?logo=telegram" />
@@ -28,9 +28,9 @@
 ### About me
 I build clean, responsive, and performant web apps.
 
-- 🎓 Second-year student at **RTU MIREA** (Russia)
+- 🎓 Third-year student at **RTU MIREA** (Russia)
 - 💼 Frontend intern at **Kaspersky**
-- 🔭 Currently exploring **React**, **Next.js**, **Drizzle ORM + Postgres**
+- 🔭 Currently exploring **AI & Automation**
 - 🌱 Learning Spanish
 
 ### Tech Stack
